@@ -1,10 +1,10 @@
 # IFoodCaseLeonardo202511
 Case apresentado como requisito do processo seletivo.
 
-Essa pasta conta com arquivos auxiliares que complementam a entrega pincipal do case. 
-O arquivo .pdf é a apresentação central é a partir dele que a narrativa acontece.
-O arquivo.jpg é o diagrama técnico das Fatos e Dimensões
-O arquivo .pbix é o que utilizaei para desenvolver o dashboard Power BI
+Essa pasta conta com arquivos auxiliares que complementam a entrega principal do case. 
+O arquivo .pdf é a apresentação central. É a partir dele que a narrativa acontece.
+O arquivo.jpg é o diagrama técnico das Fatos e Dimensões.
+O arquivo .pbix é o que utilizei para desenvolver o dashboard Power BI.
 O arquivo .ipynb é o notebook e foi desenvolvido utilizando o Databricks Community
   -notebook: 
 
